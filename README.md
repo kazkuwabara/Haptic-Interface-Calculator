@@ -1,2 +1,4 @@
 # Haptic-Interface-Calculator
 A generic calculator application with haptic feedback enabled keys and buttons to assist the visually impaired using Morse code in vibration
+
+The purpose of this project is to delve in the direction of haptic feedback as an enabler, not just an assistant. The underlying principle behind this concept being the ability to discriminate among vibration patterns of varying intensities, durations, and their conjunctions in the form of rhythms. It wouldn’t be an overstatement to call this braille for the touchscreen. In this particular application, I have programmed a basic calculator with the 4 basic operations on float/integer numbers, and encoded the buttons in the calculator to perform a morse vibration corresponding to their translation in the International Morse Code, upon being pressed.
