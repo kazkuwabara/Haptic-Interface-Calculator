@@ -1,0 +1,50 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Decimal">
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:layout_rowWeight">1</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:textSize">40sp</item>
+        <item name="android:background">@color/DecimalBG</item>
+        <item name="android:textColor">@color/DecimalTEXT</item>
+    </style>
+    
+    <style name="SpecialButton">
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:layout_rowWeight">1</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:textSize">40sp</item>
+        <item name="android:background">@color/SpecialBG</item>
+        <item name="android:textColor">@color/SpecialTEXT</item>
+    </style>
+
+    <style name="OperatorButton">
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:layout_rowWeight">1</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:textSize">40sp</item>
+        <item name="android:background">@color/OperatorBG</item>
+        <item name="android:textColor">@color/OperatorTEXT</item>
+    </style>
+
+    <style name="NumberButton">
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:layout_rowWeight">1</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:textSize">40sp</item>
+        <item name="android:background">@color/NumberBG</item>
+        <item name="android:textColor">@color/NumberTEXT</item>
+    </style>
+</resources>
